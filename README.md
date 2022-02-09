@@ -1,5 +1,4 @@
-### Hi there 👋
-![](https://github.com/pdso/iBeats/blob/main/files/heart.svg)
+### Hi there 👋 <img align="right" width="150px" src="https://github.com/pdso/iBeats/blob/main/files/heart.svg"/>
 
 <!--
 **pdso/pdso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
