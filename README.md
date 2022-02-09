@@ -1,4 +1,6 @@
-### Hi there 👋 <img align="right" width="150px" src="https://github.com/pdso/iBeats/blob/main/files/heart.svg"/>
+### 你好，我是pd。 👋 <img align="right" width="150px" src="https://github.com/pdso/iBeats/blob/main/files/heart.svg"/>
+
+打工人，我也想不平凡
 
 <!--
 **pdso/pdso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
