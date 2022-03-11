@@ -2,6 +2,8 @@
 
 打工人，我也想不平凡😤
 
+[我的记事本](https://99d.in)
+
 <!--
 **pdso/pdso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
